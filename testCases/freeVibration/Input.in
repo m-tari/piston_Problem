@@ -1,0 +1,13 @@
+1 0            // Ssolve, Fsolve
+0.16            // total_time
+100000          // mp
+0.01			// dt structure
+10000000		// kp
+1.0				// A
+0.01			// up
+0.0				// u_dot_p
+0.0            // p0
+100              // N
+0.0            // p
+1.0            // L
+0.0001           // dt

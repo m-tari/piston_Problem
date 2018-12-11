@@ -1,1 +1,0 @@
-gcc *.c -o piston -g -lm -m64 -I/home/Mohammad/intel/mkl/include/ -L/home/Mohammad/intel/mkl/lib/intel64 -Wl,--no-as-needed -lmkl_intel_lp64 -lmkl_sequential -lmkl_core -lpthread -lm -ldl -Wall
