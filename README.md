@@ -1,1 +1,1 @@
-We demonstrate solving a simple Fluid-Structure Interaction problem using this code. The whole domains consist of a compressible invicid air in a piston as the fluid part and a mass-spring system as the structure part.
+A educational code to demonstrate solving a simple Fluid-Structure Interaction problem. The whole domain consist of a compressible invicid air in a piston as the fluid part and a mass-spring system as the structure part.
