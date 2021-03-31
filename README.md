@@ -3,5 +3,5 @@
 An educational code to demonstrate solving a simple Fluid-Structure Interaction problem. The whole domain consist of a compressible inviscid air in a piston as the fluid part and a mass-spring system as the structure part.
 
 <p align="center">
-  <img width="350" height="200" src="./piston_problem.png">
+  <img width="400" height="250" src="./piston_problem.png">
 </p>
