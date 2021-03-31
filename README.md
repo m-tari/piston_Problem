@@ -6,5 +6,5 @@ An educational code to demonstrate solving a simple Fluid-Structure Interaction 
   <img width="400" height="200" src="./piston_problem.png">
 </p>
 
-Reference:
+## Reference:
 Blom, F. J. (1998). A monolithical fluid-structure interaction algorithm applied to the piston problem. Computer methods in applied mechanics and engineering, 167(3-4), 369-391.
